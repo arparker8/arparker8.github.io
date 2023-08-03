@@ -188,6 +188,7 @@ label[for="jobOptions"] {
 select {
     width: 382px;
     margin-top: 10px;
+    color: black;
 }
 
 button[type="submit"] {
