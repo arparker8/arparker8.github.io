@@ -196,6 +196,7 @@ button[type="submit"] {
     width: 100px;
     height: 25px;
     background-color: #FFFFFF;
+    color: black;
 }
 
 button[type="reset"] {
@@ -204,6 +205,7 @@ button[type="reset"] {
     width: 100px;
     height: 25px;
     background-color: #FFFFFF;
+    color: black;
 }
 
 .error {
